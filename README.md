@@ -95,7 +95,3 @@ This project showcases how web applications can be effectively deployed and scal
 
 ---
 
-## 🔗 Demo and Source Code
-
-- 🎥 [Demo Video](https://drive.google.com/file/d/1D5DOAjb2XBjwG33c10PXcZGDPHCPfZC-/view)  
-- 🧾 [)
